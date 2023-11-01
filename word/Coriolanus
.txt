@@ -1,0 +1,10 @@
+https://www.folger.edu	访问成功!
+https://accounts.google.com	访问成功!
+https://adssettings.google.com.hk?gsas	访问成功!
+https://webcache.googleusercontent.com	访问成功!
+https://lens.google.com	访问成功!
+https://support.google.com	访问成功!
+https://shakespeare.mit.edu	访问失败!
+https://www.youtube.com	访问成功!
+http://www.worldcat.org	访问成功!
+https://apis.google.com	访问成功!
